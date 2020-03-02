@@ -76,7 +76,9 @@ While archives must comply with the GDPR in the processing of archives user data
 Because of this need for interpretation, archivists active in thinking through GDPR implementation and privacy legislation in general articulate the importance of archival advocacy in these spaces; the integrity and preservation of archival records is threatened by unmitigated data privacy rights. Taylor argues that archival advocacy is “key to entrench an archives-friendly interpretation of the grey areas in the Regulation,” and in a report on archives legal issues in GDPR for the E-Ark Project, Anderson and Anderson state that it is “vital that archives should not simply become spectators as legislation and regulation is conceived and implemented.”
  
 Archives professional organizations and data privacy experts are in the early stages of building a common interpretation and approach to GDPR, with the EU leading the way. Recognizing that this legislation is still new, that archives are under the radar right now in terms of GDPR enforcement, and that litigation will influence how practices are determined, a measured approach is appropriate. While the GDPR is new and far-reaching, archivists also already work to balance principles of privacy with the provision of open and equitable access to records. GDPR does not require a drastic change to archival ethics and best practices.
-Archival Exemptions and Derogations
+
+### Archival Exemptions and Derogations
+
 The relevant GDPR exceptions provide for “archiving in the public interest” and for “historical research” which are discussed in Article 89(1) and (2), and further clarified in Recital 158.
  
 Recital 158 explains that “archiving in the public interest” applies to organizations that “hold records of public interest” and “have a legal obligation to acquire, preserve, appraise, arrange, describe, communicate, promote, disseminate and provide access to records of enduring value for general public interest.” Therefore, it is the mission of the institution holding the records that is important in determining if the exemption applies.
@@ -107,31 +109,27 @@ The proposed recommendations are based on the GDPR requirements and archives lit
 
 The GDPR requires that personal data must be processed under a lawful basis with consent for a clearly specified purpose, kept only as long as that specified purpose requires, secured, and managed such that it can be provided to the data subject and updated or deleted if they request it. Systems and processes should be developed and maintained with data protection by design and by default.
  
-Do not attempt to distinguish EU users from other users. Any changes to policy and procedure should apply to all RAC users.
+- Do not attempt to distinguish EU users from other users. Any changes to policy and procedure should apply to all RAC users.
  
-Appoint at least one staff member to lead an audit and/or data-mapping exercise to understand what personal data the RAC holds, where it is, how long it is kept, and the associated security risks (for both electronic and paper records). This may include but is not limited to data about our researchers.
- 
+- Appoint at least one staff member to lead an audit and/or data-mapping exercise to understand what personal data the RAC holds, where it is, how long it is kept, and the associated security risks (for both electronic and paper records). This may include but is not limited to data about our researchers.  
 Note: based on the scale and nature of the RAC’s processing activities, we are not required to appoint a formal Data Protection Officer (DPO) or conduct a Data Protection Impact Assessment (DPIA) as detailed in the Regulation.
  
-Update or create new policies, procedures, and technical solutions as necessary for compliance related to obtaining and documenting informed and voluntary consent, data retention periods, security, and data sharing with third parties.
+- Update or create new policies, procedures, and technical solutions as necessary for compliance related to obtaining and documenting informed and voluntary consent, data retention periods, security, and data sharing with third parties.
  
-Minimize the collection of personal data as much as possible. Especially limit the collection of “special category data.” This includes racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, and a person’s health, sex life, or sexual orientation (Article 9).
- 
+- Minimize the collection of personal data as much as possible. Especially limit the collection of “special category data.” This includes racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, and a person’s health, sex life, or sexual orientation (Article 9).  
 Note: The GDPR includes an exemption from the requirement to document data processing activities for small organizations like the RAC, but processing that involves “risk to the rights and freedoms of individuals” or is “special category data” must be documented and managed in accordance with GDPR specifications (Article 9 and Article 30).
  
-Create a privacy policy that clearly states what data we collect about users and why. The policy should be in plain language and easily accessible from the RAC’s website.
-Include information about the purpose of each type of data processing and the lawful basis for that processing.
-Include a way for someone to contact the RAC with questions or requests related to their data.
+- Create a privacy policy that clearly states what data we collect about users and why. The policy should be in plain language and easily accessible from the RAC’s website. Include information about the purpose of each type of data processing and the lawful basis for that processing. Include a way for someone to contact the RAC with questions or requests related to their data.
  
-Evaluate our use of cookies and create a cookie policy (likely part of the privacy policy).
+- Evaluate our use of cookies and create a cookie policy (likely part of the privacy policy).
  
-Implement mechanisms of informed consent for cookies, and ensure that no tracking occurs before consent is given. This does not include the management of third-party cookies, although users should be informed of them.
+- Implement mechanisms of informed consent for cookies, and ensure that no tracking occurs before consent is given. This does not include the management of third-party cookies, although users should be informed of them.
  
-Provide information and/or training to staff related to the privacy principles and rights of our users.
+- Provide information and/or training to staff related to the privacy principles and rights of our users.
 
 
+## Bibliography and Additional Resources
 
-Bibliography and Additional Resources
 Amazon Web Services. “General Data Protection Regulation (GDPR) Center”. https://aws.amazon.com/compliance/gdpr-center/
 
 Anderson, David and Janet Anderson. “Advice to Archives arising from "E-ARK Legal Issues Report: European Cultural Preservation in a Changing Legislative Landscape". February 9, 2018. https://zenodo.org/record/1170117
