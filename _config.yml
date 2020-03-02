@@ -1,0 +1,8 @@
+public: false
+category: "reference and outreach"
+tags:
+  - "workflow"
+title: "GDPR Report"
+description: "Report on the GDPR for the Rockefeller Archive Center"
+pages:
+  - ["Report on the General Data Protection Regulation for the Rockefeller Archive Center", "index"]
