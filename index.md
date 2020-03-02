@@ -128,31 +128,6 @@ Note: The GDPR includes an exemption from the requirement to document data proce
 - Provide information and/or training to staff related to the privacy principles and rights of our users.
 
 
-## Endnotes
-
-[^1]: The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016.
-
-[^2]: UK Information Commissioner's Office. “Guide to the GDPR: Children and the GDPR.” Last updated November 2019. 
-
-[^3]: The National Archives (UK). “Guide to archiving personal data,” 16.
-
-[^4]: European Archives Group. “Guidance on Data Protection for Archive Services: EAG guidelines on the implementation of the GDPR in the archive sector,” 5.
-
-[^5]: Bird & Bird. “GDPR Tracker.” 
-
-[^6]: Taylor, Isabel. “The General Data Protection Regulation: White Paper,” 186.
-
-[^7]: Taylor, 192.
-
-[^8]: Anderson and Anderson. “Advice to Archives arising from "E-ARK Legal Issues Report: European Cultural Preservation in a Changing Legislative Landscape", 12.
-
-[^9]: Society of American Archivists. Code of Ethics for Archivists.
-
-[^10]: European Archives Group, 10.
-
-[^11]: European Archives Group, 5.
-
-
 ## Bibliography
 
 The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016. https://eur-lex.europa.eu/eli/reg/2016/679/oj
@@ -185,3 +160,26 @@ Todd, Malcolm. “UK Approach to GDPR Concept ‘Archiving in the Public Interes
 
 Your Europe European Union. “Data Protection Under GDPR.” https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/indexamp_en.htm
 
+## Endnotes
+
+[^1]: The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016.
+
+[^2]: UK Information Commissioner's Office. “Guide to the GDPR: Children and the GDPR.” Last updated November 2019. 
+
+[^3]: The National Archives (UK). “Guide to archiving personal data,” 16.
+
+[^4]: European Archives Group. “Guidance on Data Protection for Archive Services: EAG guidelines on the implementation of the GDPR in the archive sector,” 5.
+
+[^5]: Bird & Bird. “GDPR Tracker.” 
+
+[^6]: Taylor, Isabel. “The General Data Protection Regulation: White Paper,” 186.
+
+[^7]: Taylor, 192.
+
+[^8]: Anderson and Anderson. “Advice to Archives arising from "E-ARK Legal Issues Report: European Cultural Preservation in a Changing Legislative Landscape", 12.
+
+[^9]: Society of American Archivists. Code of Ethics for Archivists.
+
+[^10]: European Archives Group, 10.
+
+[^11]: European Archives Group, 5.
