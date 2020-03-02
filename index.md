@@ -54,7 +54,7 @@ The set of eight fundamental data privacy rights for data subjects and the assoc
 7. Right to object
 8. Rights related to automated decision-making including profiling  
 
-There are also specific provisions in the Regulation to add additional protections for children.
+There are also specific provisions in the Regulation to add additional protections for children.[^2]
 
 ### Lawful Basis for Processing
 
@@ -67,23 +67,23 @@ In Article 6, the GDPR gives six lawful bases by which data processing can be ju
 5. A task carried out in the public interest or by official authority with a legal basis
 6. Legitimate interests, unless there is reason to protect the personal data which overrides those interests  
  
-Note: “A task carried out in the public interest” is a legitimate legal basis for processing personal data for archiving purposes in the public interest.
+Note: “A task carried out in the public interest” is a legitimate legal basis for processing personal data for archiving purposes in the public interest.[^3]
 
 ## The GDPR in Archives
 
-While archives must comply with the GDPR in the processing of archives user data, the Regulation includes some exceptions and derogations for personal data present in archival collections, since the principles and rights of data minimization and permanent preservation are at odds. However, these exceptions are somewhat ambiguous and not clearly defined. Additionally, derogations are defined as the ability of EU Member States to further define exceptions, meaning that there can be some variation across the EU on what exceptions are in place for archives (see Bird & Bird’s GDPR legislation tracker). In a 2017 white paper, archivist Isabel Taylor analyzes the archives-specific section of the GDPR and notes that “the derogations for archives, and how well they will work in practice, currently constitute one of the most uncertain areas of the new law.” 
+While archives must comply with the GDPR in the processing of archives user data, the Regulation includes some exceptions and derogations for personal data present in archival collections, since the principles and rights of data minimization and permanent preservation are at odds.[^4] However, these exceptions are somewhat ambiguous and not clearly defined. Additionally, derogations are defined as the ability of EU Member States to further define exceptions, meaning that there can be some variation across the EU on what exceptions are in place for archives (see Bird & Bird’s GDPR legislation tracker).[^5] In a 2017 white paper, archivist Isabel Taylor analyzes the archives-specific section of the GDPR and notes that “the derogations for archives, and how well they will work in practice, currently constitute one of the most uncertain areas of the new law.”[^6] 
 
-Because of this need for interpretation, archivists active in thinking through GDPR implementation and privacy legislation in general articulate the importance of archival advocacy in these spaces; the integrity and preservation of archival records is threatened by unmitigated data privacy rights. Taylor argues that archival advocacy is “key to entrench an archives-friendly interpretation of the grey areas in the Regulation,” and in a report on archives legal issues in GDPR for the E-Ark Project, Anderson and Anderson state that it is “vital that archives should not simply become spectators as legislation and regulation is conceived and implemented.”
+Because of this need for interpretation, archivists active in thinking through GDPR implementation and privacy legislation in general articulate the importance of archival advocacy in these spaces; the integrity and preservation of archival records is threatened by unmitigated data privacy rights. Taylor argues that archival advocacy is “key to entrench an archives-friendly interpretation of the grey areas in the Regulation,”[^7] and in a report on archives legal issues in GDPR for the E-Ark Project, Anderson and Anderson state that it is “vital that archives should not simply become spectators as legislation and regulation is conceived and implemented.”[^8]
  
-Archives professional organizations and data privacy experts are in the early stages of building a common interpretation and approach to GDPR, with the EU leading the way. Recognizing that this legislation is still new, that archives are under the radar right now in terms of GDPR enforcement, and that litigation will influence how practices are determined, a measured approach is appropriate. While the GDPR is new and far-reaching, archivists also already work to balance principles of privacy with the provision of open and equitable access to records. GDPR does not require a drastic change to archival ethics and best practices.
+Archives professional organizations and data privacy experts are in the early stages of building a common interpretation and approach to GDPR, with the EU leading the way. Recognizing that this legislation is still new, that archives are under the radar right now in terms of GDPR enforcement, and that litigation will influence how practices are determined, a measured approach is appropriate. While the GDPR is new and far-reaching, archivists also already work to balance principles of privacy with the provision of open and equitable access to records.[^9] GDPR does not require a drastic change to archival ethics and best practices.
 
 ### Archival Exemptions and Derogations
 
 The relevant GDPR exceptions provide for “archiving in the public interest” and for “historical research” which are discussed in Article 89(1) and (2), and further clarified in Recital 158.
  
-Recital 158 explains that “archiving in the public interest” applies to organizations that “hold records of public interest” and “have a legal obligation to acquire, preserve, appraise, arrange, describe, communicate, promote, disseminate and provide access to records of enduring value for general public interest.” Therefore, it is the mission of the institution holding the records that is important in determining if the exemption applies.
+Recital 158 explains that “archiving in the public interest” applies to organizations that “hold records of public interest” and “have a legal obligation to acquire, preserve, appraise, arrange, describe, communicate, promote, disseminate and provide access to records of enduring value for general public interest.” Therefore, it is the mission of the institution holding the records that is important in determining if the exemption applies.[^10]
  
-Article 89(1) states that “processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes” are still subject to “appropriate safeguards” for data subjects including that “technical and organizational measures are in place” for the principal of data minimization (principle 3, as described above). However, as the European Archives Group point out, data minimization can be at odds with archival preservation, and the data protection principles note “archiving in the public interest” exceptions as related to the purpose of the data collection and the time period that data can be stored (principles 2 and 5).
+Article 89(1) states that “processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes” are still subject to “appropriate safeguards” for data subjects including that “technical and organizational measures are in place” for the principal of data minimization (principle 3, as described above). However, as the European Archives Group point out, data minimization can be at odds with archival preservation, and the data protection principles note “archiving in the public interest” exceptions as related to the purpose of the data collection and the time period that data can be stored (principles 2 and 5).[^11]
  
 Article 89(3) further provides that where personal data are processed for “archiving purposes in the public interest”, Member State law may provide for derogations from specific data subject rights “in so far as such rights are likely to render impossible or seriously impair the achievement of the specific purposes, and such derogations are necessary for the fulfilment of those purposes.”
  
@@ -128,13 +128,32 @@ Note: The GDPR includes an exemption from the requirement to document data proce
 - Provide information and/or training to staff related to the privacy principles and rights of our users.
 
 
-## Footnotes
+## End Notes
 
 [1]: The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016.
 
+[2]: UK Information Commissioner's Office. “Guide to the GDPR: Children and the GDPR.” Last updated November 2019. 
+
+[3]: The National Archives (UK). “Guide to archiving personal data,” 16.
+
+[4]: European Archives Group. “Guidance on Data Protection for Archive Services: EAG guidelines on the implementation of the GDPR in the archive sector,” 5.
+
+[5]: Bird & Bird. “GDPR Tracker.” 
+
+[6]: Taylor, Isabel. “The General Data Protection Regulation: White Paper,” 186.
+
+[7]: Taylor, 192.
+
+[8]: Anderson and Anderson. “Advice to Archives arising from "E-ARK Legal Issues Report: European Cultural Preservation in a Changing Legislative Landscape", 12.
+
+[9]: Society of American Archivists. Code of Ethics for Archivists.
+
+[10]: European Archives Group, 10.
+
+[11]: European Archives Group, 5.
 
 
-## Bibliography and Additional Resources
+## Bibliography
 
 The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016. https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
