@@ -20,7 +20,7 @@ Note to Readers: This report was prepared by Rockefeller Archive Center staff an
 
 ## Regulation Overview
 
-The General Data Protection Regulation (GDPR) is the European Commission's data protection legislation that was passed by the EU in April 2016 and took effect in May 2018. It replaces, modernizes, and extends the reach of the 1995 Data Protection Directive (Directive 95/46/EC) in an effort to standardize data protection practices, and it applies to all organizations that process the personal data of people living in the EU whether or not that data is processed in the EU. The GDPR is large and complex, containing 99 Articles and 173 Recitals that articulate the responsibilities and requirements of data controllers and processors, require organizations to implement and facilitate seven data protection principles and eight privacy rights, and define the enforcement mechanism of the Regulation.
+The General Data Protection Regulation (GDPR)[^1] is the European Commission's data protection legislation that was passed by the EU in April 2016 and took effect in May 2018. It replaces, modernizes, and extends the reach of the 1995 Data Protection Directive (Directive 95/46/EC) in an effort to standardize data protection practices, and it applies to all organizations that process the personal data of people living in the EU whether or not that data is processed in the EU. The GDPR is large and complex, containing 99 Articles and 173 Recitals that articulate the responsibilities and requirements of data controllers and processors, require organizations to implement and facilitate seven data protection principles and eight privacy rights, and define the enforcement mechanism of the Regulation.
  
 As defined in the GDPR Article 4, **data processing** is any operation (manual or automated) performed on personal data including collection, organization, storage, alteration, retrieval, consultation, use, dissemination, restriction, or erasure. **Personal data** is defined broadly to include “any information relating to an identified or identifiable natural person (**‘data subject’**)” including name, id number, location, online id, or “one or more factors specific to physical, physiological, genetic, mental, economic, cultural or social identity.” 
 
@@ -128,7 +128,15 @@ Note: The GDPR includes an exemption from the requirement to document data proce
 - Provide information and/or training to staff related to the privacy principles and rights of our users.
 
 
+## Footnotes
+
+[1]: The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016.
+
+
+
 ## Bibliography and Additional Resources
+
+The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016. https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 Amazon Web Services. “General Data Protection Regulation (GDPR) Center”. https://aws.amazon.com/compliance/gdpr-center/
 
@@ -139,8 +147,6 @@ Ashley, Lori, Sarah R. Demb and Sarit Hand. “Europeans in Mind: GDPR and the R
 Bird & Bird. “GDPR Tracker.” https://www.twobirds.com/en/in-focus/general-data-protection-regulation/gdpr-tracker
 
 European Archives Group. “Guidance on Data Protection for Archive Services: EAG guidelines on the implementation of the GDPR in the archive sector”. October 2018. https://ec.europa.eu/info/files/guidance-data-protection-archive-services_en.
-
-The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016. https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 GDPR.eu. “Complete guide to GDPR compliance.” https://gdpr.eu/
 
