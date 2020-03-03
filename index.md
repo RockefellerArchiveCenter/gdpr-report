@@ -10,7 +10,7 @@ Report produced January 16, 2020
 
 ## Summary
 
-This report summarizes the main components of the EU’s new major data privacy legislation, specifies how it applies to archives, and recommends specific actions for the Rockefeller Archive Center to be in compliance with the Regulation and with good privacy practices in general.
+This report summarizes the main components of the General Data Protection Regulation (GDPR), specifies how it applies to archives, and recommends specific actions for the Rockefeller Archive Center to be in compliance with the Regulation and with good privacy practices in general.
  
 The GDPR applies to the RAC in two distinct ways: 1) the management of archival data, for which the Regulation specifies exemptions to many of its requirements based on “archiving in the public interest,” and 2) the management of our users’ data. For the first, no major changes are recommended to our current practices, although we should continue to be transparent about our public mission, make sure our collection policy is available and up-to-date, and stay current on practices related to balancing privacy and access in archives. For the second, this report details several recommendations aimed at understanding what personal data we collect about users, minimizing collection of that data, and clearly informing users about our data collection practices.
 
