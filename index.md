@@ -13,10 +13,8 @@ Report produced January 16, 2020
 This report summarizes the main components of the EU’s new major data privacy legislation, specifies how it applies to archives, and recommends specific actions for the Rockefeller Archive Center to be in compliance with the Regulation and with good privacy practices in general.
  
 The GDPR applies to the RAC in two distinct ways: 1) the management of archival data, for which the Regulation specifies exemptions to many of its requirements based on “archiving in the public interest,” and 2) the management of our users’ data. For the first, no major changes are recommended to our current practices, although we should continue to be transparent about our public mission, make sure our collection policy is available and up-to-date, and stay current on practices related to balancing privacy and access in archives. For the second, this report details several recommendations aimed at understanding what personal data we collect about users, minimizing collection of that data, and clearly informing users about our data collection practices.
- 
-This report is not a legal analysis or risk assessment.
 
-Note to Readers: This report was prepared by Rockefeller Archive Center staff and is based on an extensive literature review, conversations with external GDPR experts, and internal discussions with RAC stakeholders. The findings and recommendations contained in this report reflect the RAC’s most informed determination as to how GDPR applies to the RAC’s own particular use case and mission, as of this writing. We are providing public access to this report for informational and educational purposes only. It should not be construed as legal advice or used as the sole basis for risk assessment or action by other institutions.
+*Note to Readers: This report was prepared by Rockefeller Archive Center staff and is based on an extensive literature review, conversations with external GDPR experts, and internal discussions with RAC stakeholders. The findings and recommendations contained in this report reflect the RAC’s most informed determination as to how GDPR applies to the RAC’s own particular use case and mission, as of this writing. We are providing public access to this report for informational and educational purposes only. It should not be construed as legal advice or used as the sole basis for risk assessment or action by other institutions.*
 
 ## Regulation Overview
 
@@ -67,7 +65,7 @@ In Article 6, the GDPR gives six lawful bases by which data processing can be ju
 5. A task carried out in the public interest or by official authority with a legal basis
 6. Legitimate interests, unless there is reason to protect the personal data which overrides those interests  
  
-Note: “A task carried out in the public interest” is a legitimate legal basis for processing personal data for archiving purposes in the public interest.[^3]
+*Note: “A task carried out in the public interest” is a legitimate legal basis for processing personal data for archiving purposes in the public interest.[^3]*
 
 ## The GDPR in Archives
 
@@ -112,12 +110,14 @@ The GDPR requires that personal data must be processed under a lawful basis with
 - Do not attempt to distinguish EU users from other users. Any changes to policy and procedure should apply to all RAC users.
  
 - Appoint at least one staff member to lead an audit and/or data-mapping exercise to understand what personal data the RAC holds, where it is, how long it is kept, and the associated security risks (for both electronic and paper records). This may include but is not limited to data about our researchers.  
-Note: based on the scale and nature of the RAC’s processing activities, we are not required to appoint a formal Data Protection Officer (DPO) or conduct a Data Protection Impact Assessment (DPIA) as detailed in the Regulation.
+
+*Note: based on the scale and nature of the RAC’s processing activities, we are not required to appoint a formal Data Protection Officer (DPO) or conduct a Data Protection Impact Assessment (DPIA) as detailed in the Regulation.*
  
 - Update or create new policies, procedures, and technical solutions as necessary for compliance related to obtaining and documenting informed and voluntary consent, data retention periods, security, and data sharing with third parties.
  
 - Minimize the collection of personal data as much as possible. Especially limit the collection of “special category data.” This includes racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, and a person’s health, sex life, or sexual orientation (Article 9).  
-Note: The GDPR includes an exemption from the requirement to document data processing activities for small organizations like the RAC, but processing that involves “risk to the rights and freedoms of individuals” or is “special category data” must be documented and managed in accordance with GDPR specifications (Article 9 and Article 30).
+
+*Note: The GDPR includes an exemption from the requirement to document data processing activities for small organizations like the RAC, but processing that involves “risk to the rights and freedoms of individuals” or is “special category data” must be documented and managed in accordance with GDPR specifications (Article 9 and Article 30).*
  
 - Create a privacy policy that clearly states what data we collect about users and why. The policy should be in plain language and easily accessible from the RAC’s website. Include information about the purpose of each type of data processing and the lawful basis for that processing. Include a way for someone to contact the RAC with questions or requests related to their data.
  
