@@ -130,47 +130,47 @@ Note: The GDPR includes an exemption from the requirement to document data proce
 
 ## Bibliography
 
-The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016. https://eur-lex.europa.eu/eli/reg/2016/679/oj
+The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016. [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
 
-Amazon Web Services. “General Data Protection Regulation (GDPR) Center”. https://aws.amazon.com/compliance/gdpr-center/
+Amazon Web Services. “General Data Protection Regulation (GDPR) Center”. [https://aws.amazon.com/compliance/gdpr-center/](https://aws.amazon.com/compliance/gdpr-center/)
 
-Anderson, David and Janet Anderson. “Advice to Archives arising from "E-ARK Legal Issues Report: European Cultural Preservation in a Changing Legislative Landscape". February 9, 2018. https://zenodo.org/record/1170117
+Anderson, David and Janet Anderson. “Advice to Archives arising from "E-ARK Legal Issues Report: European Cultural Preservation in a Changing Legislative Landscape". February 9, 2018. [https://zenodo.org/record/1170117](https://zenodo.org/record/1170117)
 
 Ashley, Lori, Sarah R. Demb and Sarit Hand. “Europeans in Mind: GDPR and the Right to be Forgotten in North America.” Session presented at the Society of American Archivists Annual Meeting, August 2019.
 
-Bird & Bird. “GDPR Tracker.” https://www.twobirds.com/en/in-focus/general-data-protection-regulation/gdpr-tracker
+Bird & Bird. “GDPR Tracker.” [https://www.twobirds.com/en/in-focus/general-data-protection-regulation/gdpr-tracker](https://www.twobirds.com/en/in-focus/general-data-protection-regulation/gdpr-tracker)
 
-European Archives Group. “Guidance on Data Protection for Archive Services: EAG guidelines on the implementation of the GDPR in the archive sector”. October 2018. https://ec.europa.eu/info/files/guidance-data-protection-archive-services_en.
+European Archives Group. “Guidance on Data Protection for Archive Services: EAG guidelines on the implementation of the GDPR in the archive sector”. October 2018. [https://ec.europa.eu/info/files/guidance-data-protection-archive-services_en](https://ec.europa.eu/info/files/guidance-data-protection-archive-services_en)
 
-GDPR.eu. “Complete guide to GDPR compliance.” https://gdpr.eu/
+GDPR.eu. “Complete guide to GDPR compliance.” [https://gdpr.eu/](https://gdpr.eu/)
 
-Hintze, Mike. “Viewing the GDPR through a de-identification lens: a tool for compliance, clarification, and consistency.” International Data Privacy Law, Volume 8, Issue 1, February 2018, Pages 86–101, https://doi.org/10.1093/idpl/ipx020
+Hintze, Mike. “Viewing the GDPR through a de-identification lens: a tool for compliance, clarification, and consistency.” International Data Privacy Law, Volume 8, Issue 1, February 2018, Pages 86–101, [https://doi.org/10.1093/idpl/ipx020](https://doi.org/10.1093/idpl/ipx020)
 
-Information Commissioner's Office (UK). “Guide to the General Data Protection Regulation.” Last updated November 2019. https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/children-and-the-gdpr/
+Information Commissioner's Office (UK). “Guide to the General Data Protection Regulation.” Last updated November 2019. [https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/children-and-the-gdpr/](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/children-and-the-gdpr/)
 
-The National Archives (UK). “Archives and GDPR: frequently asked questions.” https://www.nationalarchives.gov.uk/archives-sector/legislation/archives-data-protection-law-uk/gdpr-faqs/
+The National Archives (UK). “Archives and GDPR: frequently asked questions.” [https://www.nationalarchives.gov.uk/archives-sector/legislation/archives-data-protection-law-uk/gdpr-faqs/](https://www.nationalarchives.gov.uk/archives-sector/legislation/archives-data-protection-law-uk/gdpr-faqs/)
 
-The National Archives (UK). “Guide to archiving personal data”. August 2018. https://www.nationalarchives.gov.uk/documents/information-management/guide-to-archiving-personal-data.pdf
+The National Archives (UK). “Guide to archiving personal data”. August 2018. [https://www.nationalarchives.gov.uk/archives-sector/legislation/archives-data-protection-law-uk/gdpr-faqs/](https://www.nationalarchives.gov.uk/archives-sector/legislation/archives-data-protection-law-uk/gdpr-faqs/)
 
-Society of American Archivists. Code of Ethics for Archivists. Revised January, 2012. https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics
+Society of American Archivists. Code of Ethics for Archivists. Revised January, 2012. [https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics](https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics)
 
-Taylor, Isabel. “The General Data Protection Regulation: White Paper.” Archivar 70(2) 2017. https://interparestrust.org/assets/public/dissemination/Archivar2_2017_Taylor.pdf
+Taylor, Isabel. “The General Data Protection Regulation: White Paper.” Archivar 70(2) 2017. [https://interparestrust.org/assets/public/dissemination/Archivar2_2017_Taylor.pdf](https://interparestrust.org/assets/public/dissemination/Archivar2_2017_Taylor.pdf)
 
-Todd, Malcolm. “UK Approach to GDPR Concept ‘Archiving in the Public Interest’”. Presented at ACA@UBC 11th Annual International Seminars and Symposium, February 15, 2019. Slides accessed at http://acasymposium2019.sites.olt.ubc.ca/speakers/#Malcolm-Todd
+Todd, Malcolm. “UK Approach to GDPR Concept ‘Archiving in the Public Interest’”. Presented at ACA@UBC 11th Annual International Seminars and Symposium, February 15, 2019. Slides accessed at [http://acasymposium2019.sites.olt.ubc.ca/speakers/#Malcolm-Todd](http://acasymposium2019.sites.olt.ubc.ca/speakers/#Malcolm-Todd)
 
-Your Europe European Union. “Data Protection Under GDPR.” https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/indexamp_en.htm
+Your Europe European Union. “Data Protection Under GDPR.” [https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/indexamp_en.htm](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/indexamp_en.htm)
 
 ## Endnotes
 
 [^1]: The European Parliament and the Council of the European Union. “General Data Protection Regulation.” April 27, 2016.
 
-[^2]: UK Information Commissioner's Office. “Guide to the GDPR: Children and the GDPR.” Last updated November 2019. 
+[^2]: UK Information Commissioner's Office. “Guide to the GDPR: Children and the GDPR.” Last updated November 2019.
 
 [^3]: The National Archives (UK). “Guide to archiving personal data,” 16.
 
 [^4]: European Archives Group. “Guidance on Data Protection for Archive Services: EAG guidelines on the implementation of the GDPR in the archive sector,” 5.
 
-[^5]: Bird & Bird. “GDPR Tracker.” 
+[^5]: Bird & Bird. “GDPR Tracker.”
 
 [^6]: Taylor, Isabel. “The General Data Protection Regulation: White Paper,” 186.
 
