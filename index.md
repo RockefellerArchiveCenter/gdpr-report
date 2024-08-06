@@ -1,9 +1,6 @@
 ---
-
 layout: docs
-
-title: "Report on the General Data Protection Regulation for the Rockefeller Archive Center"
-
+title: "General Data Protection Regulation (GDPR) Report"
 ---
 
 Report produced January 16, 2020
